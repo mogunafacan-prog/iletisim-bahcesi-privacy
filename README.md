@@ -1,6 +1,6 @@
 # İletişim Bahçesi – Gizlilik Politikası
 
-**Son Güncelleme: 28 Ekim 2026**
+**Son Güncelleme: 16 KASIM 2026**
 
 İletişim Bahçesi, kullanıcıların ve ailelerin gizliliğine önem verir. Bu Gizlilik Politikası, uygulamanın hangi verileri işlediğini, bu verilerin hangi amaçlarla kullanıldığını ve kullanıcıların haklarını açıklar.
 
@@ -8,7 +8,7 @@
 
 İletişim Bahçesi, kullanıcı hesabı oluşturulmasını gerektirmez.
 
-Uygulama içerisinde girilen oyuncu isimleri, oyun ilerlemesi, tercihler ve benzeri oyun bilgileri kullanıcının cihazında yerel olarak saklanır. Bu bilgiler, uygulamanın normal kullanımı sırasında geliştiricinin sunucularına gönderilmez.
+Uygulama içerisinde girilen oyuncu isimleri, aile anıları, oturum sonunda yazılan notlar, oyun ilerlemesi, tercihler ve benzeri oyun bilgileri kullanıcının cihazında yerel olarak saklanır. Bu bilgiler, uygulamanın normal kullanımı sırasında geliştiricinin sunucularına gönderilmez.
 
 ## 2. Premium Satın Almalar
 
@@ -54,6 +54,8 @@ Bildirim izni kullanıcı tarafından verilir. Kullanıcılar bu izni cihaz ayar
 Oyuncu isimleri, oyun ilerlemesi ve uygulama tercihleri gibi yerel veriler kullanıcının cihazında saklanır.
 
 Uygulamanın kaldırılması veya uygulama verilerinin temizlenmesi, bu bilgilerin silinmesine neden olabilir.
+
+Android’de, cihazınızın yedekleme ayarlarına bağlı olarak, oyuncu adları, aile anıları, oyun ilerlemesi ve uygulama tercihleri gibi yerel kayıtlar Android sistem yedeğine dahil edilebilir. Bu kayıtlar, uygulamayı yeniden yüklediğinizde veya yeni bir cihaza geçtiğinizde sistem tarafından geri yüklenebilir.
 
 Satın alma ve işlem kayıtları, Apple, Google ve RevenueCat tarafından hizmetlerin yürütülmesi, yasal yükümlülüklerin karşılanması ve ilgili saklama politikaları kapsamında tutulabilir.
 
