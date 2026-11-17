@@ -75,8 +75,8 @@ Uygulamanın özelliklerinde, kullanılan üçüncü taraf hizmetlerde veya veri
 
 Güncel politika bu sayfada yayımlanır.
 
-## 8. İletişim
+## 8. Uygulama Desteği ve İletişim
 
-Gizlilik politikası ve kişisel verilerin işlenmesine ilişkin sorularınız veya talepleriniz için:
+İletişim Bahçesi’ni kullanırken bir sorun yaşarsanız veya Premium satın alma ya da satın alımları geri yükleme hakkında bir sorunuz varsa bize e-posta gönderebilirsiniz. Gizlilik ve kişisel verilerle ilgili taleplerinizi de aynı adrese iletebilirsiniz.
 
-**E-posta:** psikolojivespor@gmail.com
+**E-posta:** [psikolojivespor@gmail.com](mailto:psikolojivespor@gmail.com)
